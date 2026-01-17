@@ -1,2 +1,3 @@
 # First-try
-a freshman's trying
+a freshman's immature trying
+not a whole project
